@@ -1,2 +1,4 @@
 ---
-# vars file for kube-node
+# vars file for kube-master
+
+cidr: "10.244.0.0/16" 
